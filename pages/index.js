@@ -1,8 +1,8 @@
 
-function Hello(props) {
+function Home(props) {
     return (
         <div>Welcome to Jam's next</div>
     )
 }
 
-exports.default = Hello;
+exports.default = Home;
